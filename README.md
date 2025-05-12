@@ -1,5 +1,5 @@
 Marketing Campaign Data Cleaning Report
-Overview
+
 This document summarizes the steps taken to clean and prepare the Marketing Campaign dataset (marketing_campaign.csv) for analysis. The cleaning process focused on handling missing values, standardizing entries, fixing data types, and creating new, useful features.
 
 Cleaning and Preparation Steps
@@ -48,10 +48,11 @@ total_spending: Total spending across various product categories.
 
 total_purchases: Total purchases across different channels.
 
-Final Verification
-Ensured correct data types for all columns.
+Final Verification:
 
-Confirmed no missing values remained.
+1)Ensured correct data types for all columns.
 
-Inspected sample records to verify changes.
+2)Confirmed no missing values remained.
+
+3)Inspected sample records to verify changes.
 
